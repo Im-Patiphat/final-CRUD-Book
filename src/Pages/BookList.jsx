@@ -57,7 +57,7 @@ const BookList = () => {
                                 <td>ID</td>
                                 <td>ชื่อ</td>
                                 <td>ผู้เขียน</td>
-                                <td>ราคา(บาท)</td>
+                                <td>ราคา</td>
                                 <td>ประเภท</td>
                                 <td>Actions</td>
                             </tr>
@@ -69,7 +69,7 @@ const BookList = () => {
                                         <td>{item.id}</td>
                                         <td>{item.name}</td>
                                         <td>{item.author}</td>
-                                        <td>{item.price}</td>
+                                        <td>{item.price} บาท</td>
                                         <td>{item.genre}</td>
                                         <td>
                                             <a className="btn btn-success" onClick={() => {

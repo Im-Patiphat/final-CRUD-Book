@@ -6,7 +6,7 @@
   
   .card {
     border: 1px solid #ccc;
-    border-radius: 10px; /* เพิ่มมุมโค้งให้กับการ์ด */
+    border-radius: 10px; 
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);

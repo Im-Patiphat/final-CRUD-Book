@@ -48,13 +48,13 @@ const AddBook = () => {
                 <div className="col-lg-12">
                   <div className="form-group">
                     <label htmlFor="name">Name</label>
-                    <input type="text" required name="name" id="id" value={book.name} onChange={handleChange} className='form-control' />
+                    <input type="string" required name="name" id="id" value={book.name} onChange={handleChange} className='form-control' />
                   </div>
                 </div>
                 <div className="col-lg-12">
                   <div className="form-group">
                     <label htmlFor="author">ผู้เขียน</label>
-                    <input type="text" required name="author" id="author" value={book.author} onChange={handleChange} className='form-control' />
+                    <input type="string" required name="author" id="author" value={book.author} onChange={handleChange} className='form-control' />
                   </div>
                 </div>
                 <div className="col-lg-12">
@@ -66,13 +66,13 @@ const AddBook = () => {
                 <div className="col-lg-12">
                   <div className="form-group">
                     <label htmlFor="genre">ประเภท</label>
-                    <input type="text" required name="genre" id="genre" value={book.genre} onChange={handleChange} className='form-control' />
+                    <input type="string" required name="genre" id="genre" value={book.genre} onChange={handleChange} className='form-control' />
                   </div>
                 </div>
                 <div className="col-lg-12">
                   <div className="form-group">
                     <label htmlFor="image">image</label>
-                    <input type="text" required name="image" id="image" value={book.image} onChange={handleChange} className='form-control' />
+                    <input type="string" required name="image" id="image" value={book.image} onChange={handleChange} className='form-control' />
                   </div>
                 </div>
             
