@@ -74,13 +74,13 @@ const BookList = () => {
                                         <td>
                                             <a className="btn btn-success" onClick={() => {
                                                 loadEdit(item.id)
-                                            }}>Edit</a>
+                                            }}>แก้ไข</a>
                                             <a className="btn btn-danger" onClick={() => {
                                                 removeBook(item.id)
-                                            }}>Remove</a>
+                                            }}>ลบ</a>
                                             <a className="btn btn-primary" onClick={() => {
                                                 loadDetail(item.id)
-                                            }}>Detail</a>
+                                            }}>รายละเอียดหนังสือ</a>
                                         </td>
                                     </tr>
                                 ))}

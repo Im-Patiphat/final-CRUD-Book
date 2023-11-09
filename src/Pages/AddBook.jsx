@@ -40,7 +40,7 @@ const AddBook = () => {
       <div className="offset-lg-3 col-lg-6">
         <form className="container" onSubmit={handleSubmit}>
           <div className="card">
-            <div className="card-title">
+            <div className="card-title" >
               <h2>Add New Book</h2>
             </div>
             <div className="card-body">

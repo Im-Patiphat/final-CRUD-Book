@@ -1,0 +1,65 @@
+/* Bookdetail.css */
+
+.detail {
+    margin: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 10px; /* เพิ่มมุมโค้งให้กับการ์ด */
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-title {
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 0;
+  }
+  
+  h4 {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #d32f2f;
+  }
+  
