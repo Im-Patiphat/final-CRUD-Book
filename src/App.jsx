@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <h1>Final CRUD Book</h1>
+        <h1>Final CRUD BookList</h1>
         <BrowserRouter>
         <Routes>
           <Route path="/" element={<BookList />} />

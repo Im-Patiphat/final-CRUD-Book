@@ -81,20 +81,20 @@
       "image": "https://source.unsplash.com/random/200x200/?book"
     },
     {
-      "name": "test",
-      "author": "Patiphat",
-      "price": "9999",
-      "genre": "ฟหก",
+      "name": "test test",
+      "author": "Patiphat Rattanosot",
+      "price": "99.99",
+      "genre": "ฟหก ฟหก",
       "image": "https://source.unsplash.com/random/200x200/?book",
       "id": 11
     },
     {
-      "name": "asd",
-      "author": "asd",
-      "price": "41.56",
+      "name": "test test",
+      "author": "Patiphat",
+      "price": "546.64",
       "genre": "asd",
       "image": "https://source.unsplash.com/random/200*200/?portrait",
-      "id": 12
+      "id": 13
     }
   ]
 }
