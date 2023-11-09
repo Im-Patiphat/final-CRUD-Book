@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "TGAT2 & TGAT3 การคิดอย่างมีเหตุผล",
+      "author": "ณภัทร รอดเหตุภัย (อ.ขลุ่ย)",
+      "price": "280.25",
+      "genre": "หนังสือเตรียมสอบ แนวข้อสอบ",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 2,
+      "name": "สรุปยอดการลงทุนในหุ้น",
+      "author": "สมพงษ์ อังคารา",
+      "price": 210,
+      "genre": "หนังสือการลงทุน",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 3,
+      "name": "ชีววิทยาประยุกต์",
+      "author": "วสันต์ จริงๆ",
+      "price": 320.5,
+      "genre": "หนังสือเรียน แนวข้อสอบ",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 4,
+      "name": "เศรษฐศาสตร์บุคคล 101",
+      "author": "สมชาย ศุภวรรณ",
+      "price": 245.75,
+      "genre": "หนังสือเศรษฐศาสตร์",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 5,
+      "name": "วรรณกรรมเพื่อชีวิต",
+      "author": "อรวุท สุขศรี",
+      "price": 195,
+      "genre": "หนังสือวรรณกรรม",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 6,
+      "name": "สุขภาพสำหรับทุกคน",
+      "author": "สมหมาย สุขเกษม",
+      "price": 280.25,
+      "genre": "หนังสือสุขภาพ",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 7,
+      "name": "ปรัชญาวิชาการ ครูคนดี",
+      "author": "พัชรี ครูดี",
+      "price": 350,
+      "genre": "หนังสือปรัชญา",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 8,
+      "name": "สมการเชิงเส้นสำหรับนิยม",
+      "author": "วรรณพงษ์ สัญญานนท์",
+      "price": 175.75,
+      "genre": "หนังสือวิชาการ",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 9,
+      "name": "ภาษาอังกฤษสำหรับเด็ก",
+      "author": "ณัฏฐา วรรณวาร",
+      "price": 150,
+      "genre": "หนังสือเด็ก",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "id": 10,
+      "name": "นิตยสารวิทยุโลก",
+      "author": "บุญเจือ แสงทอง",
+      "price": 95.25,
+      "genre": "นิตยสาร",
+      "image": "https://source.unsplash.com/random/200x200/?book"
+    },
+    {
+      "name": "test",
+      "author": "Patiphat",
+      "price": "9999",
+      "genre": "ฟหก",
+      "image": "https://source.unsplash.com/random/200x200/?book",
+      "id": 11
+    }
+  ]
+}
